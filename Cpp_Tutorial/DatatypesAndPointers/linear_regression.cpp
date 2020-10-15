@@ -28,9 +28,7 @@ int main()
 			  loss = -loss;
 		  }
 		  // If loss was not zero upgrade rule would be:
-		  // W[i] = W[i] - (0.001 * loss)
 		  W = W + (learning_rate * loss);
-		  // b = b - (learning_rate * loss);
 		  cout << "Epoch" << epoch << ", Sample" << i <<", Loss: " << loss << endl;
 		}
 	}
