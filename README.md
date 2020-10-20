@@ -4,7 +4,7 @@
 Simple guide for cpp using the sololearn course.
 
 
-<img src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" alt="C++ Logo" width="40%" height="40%" />
+<img src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" alt="C++ Logo" width="10%" height="10%" />
 
 
 * **Chapter 1:**  
