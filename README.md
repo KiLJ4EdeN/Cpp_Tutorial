@@ -9,7 +9,9 @@
 [![License](https://img.shields.io/github/license/KiLJ4EdeN/Cpp_Tutorial)](https://img.shields.io/github/license/KiLJ4EdeN/Cpp_Tutorial) [![Version](https://img.shields.io/github/v/tag/KiLJ4EdeN/Cpp_Tutorial)](https://img.shields.io/github/v/tag/KiLJ4EdeN/Cpp_Tutorial) [![Code size](https://img.shields.io/github/languages/code-size/KiLJ4EdeN/Cpp_Tutorial)](https://img.shields.io/github/languages/code-size/KiLJ4EdeN/Cpp_Tutorial) [![Repo size](https://img.shields.io/github/repo-size/KiLJ4EdeN/Cpp_Tutorial)](https://img.shields.io/github/repo-size/KiLJ4EdeN/Cpp_Tutorial) [![Issue open](https://img.shields.io/github/issues/KiLJ4EdeN/Cpp_Tutorial)](https://img.shields.io/github/issues/KiLJ4EdeN/Cpp_Tutorial)
 ![Issue closed](https://img.shields.io/github/issues-closed/KiLJ4EdeN/Cpp_Tutorial)
 
-Simple guide for cpp using the sololearn course.
+Simple guide for cpp combining the sololearn course and linear-cpp.
+[SoloLearn](https://www.sololearn.com/Course/CPlusPlus/)
+[linear-cpp](https://github.com/jesyspa/linear-cpp)
 
 ## Preliminaries
 Install g++, Depending on your Linux Distribution.
