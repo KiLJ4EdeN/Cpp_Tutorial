@@ -26,4 +26,12 @@ Simple guide for cpp using the sololearn course.
     * [switch](https://github.com/KiLJ4EdeN/Cpp_Tutorial/blob/main/Cpp_Tutorial/ConditionalsAndLoops/switch_statement.cpp)
     * [while](https://github.com/KiLJ4EdeN/Cpp_Tutorial/blob/main/Cpp_Tutorial/ConditionalsAndLoops/while_statement.cpp)
     * [dowhile](https://github.com/KiLJ4EdeN/Cpp_Tutorial/blob/main/Cpp_Tutorial/ConditionalsAndLoops/dowhile_statement.cpp)
-    * [LinearRegression](https://github.com/KiLJ4EdeN/Cpp_Tutorial/blob/main/Cpp_Tutorial/ConditionalsAndLoops/linear_regression.cpp)
+
+
+
+* **Chapter 3:** 
+
+* [DataTypesAndPointers](https://github.com/KiLJ4EdeN/Cpp_Tutorial/tree/main/Cpp_Tutorial/DatatypesAndPointers)
+    * [Dtypes](https://github.com/KiLJ4EdeN/Cpp_Tutorial/blob/main/Cpp_Tutorial/DatatypesAndPointers/Dtypes.cpp)
+    * [LinearRegression](https://github.com/KiLJ4EdeN/Cpp_Tutorial/blob/main/Cpp_Tutorial/DatatypesAndPointers/LinearRegression.cpp)
+    * [MultiDimenstionalArrays](https://github.com/KiLJ4EdeN/Cpp_Tutorial/blob/main/Cpp_Tutorial/DatatypesAndPointers/MultiDimensionalArrays.cpp)
