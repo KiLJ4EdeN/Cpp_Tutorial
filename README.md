@@ -8,6 +8,7 @@ Simple guide for cpp using the sololearn course.
 
 
 * **Chapter 1:**  
+
 * [BasicConcepts] (https://github.com/KiLJ4EdeN/Cpp_Tutorial/tree/main/Cpp_Tutorial/BasicConcepts)
     * [HelloWorld](https://github.com/KiLJ4EdeN/Cpp_Tutorial/blob/main/Cpp_Tutorial/BasicConcepts/helloworld.cpp)
     * [Variables](https://github.com/KiLJ4EdeN/Cpp_Tutorial/blob/main/Cpp_Tutorial/BasicConcepts/vars.cpp)
@@ -17,4 +18,5 @@ Simple guide for cpp using the sololearn course.
     
 
 * **Chapter 2:** 
+
 * [ConditionalsAndLoops] (https://github.com/KiLJ4EdeN/Cpp_Tutorial/tree/main/Cpp_Tutorial/ConditionalsAndLoops)
