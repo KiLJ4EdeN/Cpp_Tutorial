@@ -28,29 +28,29 @@ g++ filename.cpp -o filename.o
 
 * **Chapter 1:**  
 
-* [BasicConcepts](https://github.com/KiLJ4EdeN/Cpp_Tutorial/tree/main/Cpp_Tutorial/BasicConcepts)
-    * [HelloWorld](https://github.com/KiLJ4EdeN/Cpp_Tutorial/blob/main/Cpp_Tutorial/BasicConcepts/helloworld.cpp)
-    * [Variables](https://github.com/KiLJ4EdeN/Cpp_Tutorial/blob/main/Cpp_Tutorial/BasicConcepts/vars.cpp)
-    * [UserInput](https://github.com/KiLJ4EdeN/Cpp_Tutorial/blob/main/Cpp_Tutorial/BasicConcepts/user_input.cpp)
-    * [AassignmentAndInrementing](https://github.com/KiLJ4EdeN/Cpp_Tutorial/blob/main/Cpp_Tutorial/BasicConcepts/assignment_and_increment.cpp)
-    * [Arithmetics](https://github.com/KiLJ4EdeN/Cpp_Tutorial/blob/main/Cpp_Tutorial/BasicConcepts/arithmetic.cpp)
+* [BasicConcepts](https://github.com/KiLJ4EdeN/Cpp_Tutorial/tree/main/src/BasicConcepts)
+    * [HelloWorld](https://github.com/KiLJ4EdeN/Cpp_Tutorial/blob/main/src/BasicConcepts/helloworld.cpp)
+    * [Variables](https://github.com/KiLJ4EdeN/Cpp_Tutorial/blob/main/src/BasicConcepts/vars.cpp)
+    * [UserInput](https://github.com/KiLJ4EdeN/Cpp_Tutorial/blob/main/src/BasicConcepts/user_input.cpp)
+    * [AassignmentAndInrementing](https://github.com/KiLJ4EdeN/Cpp_Tutorial/blob/main/src/BasicConcepts/assignment_and_increment.cpp)
+    * [Arithmetics](https://github.com/KiLJ4EdeN/Cpp_Tutorial/blob/main/src/BasicConcepts/arithmetic.cpp)
     
 
 * **Chapter 2:** 
 
-* [ConditionalsAndLoops](https://github.com/KiLJ4EdeN/Cpp_Tutorial/tree/main/Cpp_Tutorial/ConditionalsAndLoops)
-    * [LogicalOperatiors](https://github.com/KiLJ4EdeN/Cpp_Tutorial/blob/main/Cpp_Tutorial/BasicConcepts/user_input.cpp)
-    * [if](https://github.com/KiLJ4EdeN/Cpp_Tutorial/blob/main/Cpp_Tutorial/ConditionalsAndLoops/if_statement.cpp)
-    * [else](https://github.com/KiLJ4EdeN/Cpp_Tutorial/blob/main/Cpp_Tutorial/ConditionalsAndLoops/else_statement.cpp)
-    * [switch](https://github.com/KiLJ4EdeN/Cpp_Tutorial/blob/main/Cpp_Tutorial/ConditionalsAndLoops/switch_statement.cpp)
-    * [while](https://github.com/KiLJ4EdeN/Cpp_Tutorial/blob/main/Cpp_Tutorial/ConditionalsAndLoops/while_statement.cpp)
-    * [dowhile](https://github.com/KiLJ4EdeN/Cpp_Tutorial/blob/main/Cpp_Tutorial/ConditionalsAndLoops/dowhile_statement.cpp)
+* [ConditionalsAndLoops](https://github.com/KiLJ4EdeN/Cpp_Tutorial/tree/main/src/ConditionalsAndLoops)
+    * [LogicalOperatiors](https://github.com/KiLJ4EdeN/Cpp_Tutorial/blob/main/src/BasicConcepts/user_input.cpp)
+    * [if](https://github.com/KiLJ4EdeN/Cpp_Tutorial/blob/main/src/ConditionalsAndLoops/if_statement.cpp)
+    * [else](https://github.com/KiLJ4EdeN/Cpp_Tutorial/blob/main/src/ConditionalsAndLoops/else_statement.cpp)
+    * [switch](https://github.com/KiLJ4EdeN/Cpp_Tutorial/blob/main/src/ConditionalsAndLoops/switch_statement.cpp)
+    * [while](https://github.com/KiLJ4EdeN/Cpp_Tutorial/blob/main/src/ConditionalsAndLoops/while_statement.cpp)
+    * [dowhile](https://github.com/KiLJ4EdeN/Cpp_Tutorial/blob/main/src/ConditionalsAndLoops/dowhile_statement.cpp)
 
 
 
 * **Chapter 3:** 
 
-* [DataTypesAndPointers](https://github.com/KiLJ4EdeN/Cpp_Tutorial/tree/main/Cpp_Tutorial/DatatypesAndPointers)
-    * [Dtypes](https://github.com/KiLJ4EdeN/Cpp_Tutorial/blob/main/Cpp_Tutorial/DatatypesAndPointers/Dtypes.cpp)
-    * [LinearRegression](https://github.com/KiLJ4EdeN/Cpp_Tutorial/blob/main/Cpp_Tutorial/DatatypesAndPointers/LinearRegression.cpp)
-    * [MultiDimenstionalArrays](https://github.com/KiLJ4EdeN/Cpp_Tutorial/blob/main/Cpp_Tutorial/DatatypesAndPointers/MultiDimensionalArrays.cpp)
+* [DataTypesAndPointers](https://github.com/KiLJ4EdeN/Cpp_Tutorial/tree/main/src/DatatypesAndPointers)
+    * [Dtypes](https://github.com/KiLJ4EdeN/Cpp_Tutorial/blob/main/src/DatatypesAndPointers/Dtypes.cpp)
+    * [LinearRegression](https://github.com/KiLJ4EdeN/Cpp_Tutorial/blob/main/src/DatatypesAndPointers/LinearRegression.cpp)
+    * [MultiDimenstionalArrays](https://github.com/KiLJ4EdeN/Cpp_Tutorial/blob/main/src/DatatypesAndPointers/MultiDimensionalArrays.cpp)
