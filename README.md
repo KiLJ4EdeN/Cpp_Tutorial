@@ -71,7 +71,7 @@ g++ filename.cpp -o filename.o
     * [SizeOf](https://github.com/KiLJ4EdeN/Cpp_Tutorial/blob/main/src/DatatypesAndPointers/SizeOf.cpp)
     
     
-* **Chapter 3:** 
+* **Chapter 4:** 
 
 * [Functions](https://github.com/KiLJ4EdeN/Cpp_Tutorial/tree/main/src/Functions)
     * [Decarlation](https://github.com/KiLJ4EdeN/Cpp_Tutorial/blob/main/src/Functions/Decarlation.cpp)
