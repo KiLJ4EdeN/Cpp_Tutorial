@@ -59,3 +59,13 @@ g++ filename.cpp -o filename.o
     * [Dtypes](https://github.com/KiLJ4EdeN/Cpp_Tutorial/blob/main/src/DatatypesAndPointers/Dtypes.cpp)
     * [LinearRegression](https://github.com/KiLJ4EdeN/Cpp_Tutorial/blob/main/src/DatatypesAndPointers/LinearRegression.cpp)
     * [MultiDimenstionalArrays](https://github.com/KiLJ4EdeN/Cpp_Tutorial/blob/main/src/DatatypesAndPointers/MultiDimensionalArrays.cpp)
+    * [Pointers](https://github.com/KiLJ4EdeN/Cpp_Tutorial/blob/main/src/DatatypesAndPointers/Pointers.cpp)
+    * [DynamicMemory](https://github.com/KiLJ4EdeN/Cpp_Tutorial/blob/main/src/DatatypesAndPointers/DynamicMemory.cpp)
+    
+    
+* **Chapter 3:** 
+
+* [Functions](https://github.com/KiLJ4EdeN/Cpp_Tutorial/tree/main/src/Functions)
+    * [Decarlation](https://github.com/KiLJ4EdeN/Cpp_Tutorial/blob/main/src/Functions/Decarlation.cpp)
+    * [Vectors](https://github.com/KiLJ4EdeN/Cpp_Tutorial/blob/main/src/Functions/Vectors.cpp)
+
