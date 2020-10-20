@@ -10,8 +10,11 @@
 ![Issue closed](https://img.shields.io/github/issues-closed/KiLJ4EdeN/Cpp_Tutorial)
 
 Simple guide for cpp combining the sololearn course and linear-cpp.
+
 [SoloLearn](https://www.sololearn.com/Course/CPlusPlus/)
+
 [linear-cpp](https://github.com/jesyspa/linear-cpp)
+
 
 ## Preliminaries
 Install g++, Depending on your Linux Distribution.
