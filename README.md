@@ -15,7 +15,7 @@ yum install gcc-c++
 sudo apt-get install g++
 ```
 Or Install Visual Studio on Windows or Mac.
-* [VisualStudio](https://github.com/KiLJ4EdeN/Cpp_Tutorial/tree/main/Cpp_Tutorial/BasicConcepts)https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwix_tLWz8LsAhVLDuwKHVFrCoIQFjAAegQIBBAC&url=https%3A%2F%2Fvisualstudio.microsoft.com%2Fdownloads%2F&usg=AOvVaw3yDAjnfulA3EWyxWVawAZQ)
+* [VisualStudio](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwix_tLWz8LsAhVLDuwKHVFrCoIQFjAAegQIBBAC&url=https%3A%2F%2Fvisualstudio.microsoft.com%2Fdownloads%2F&usg=AOvVaw3yDAjnfulA3EWyxWVawAZQ)
 
 
 
