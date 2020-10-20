@@ -20,3 +20,10 @@ Simple guide for cpp using the sololearn course.
 * **Chapter 2:** 
 
 * [ConditionalsAndLoops](https://github.com/KiLJ4EdeN/Cpp_Tutorial/tree/main/Cpp_Tutorial/ConditionalsAndLoops)
+    * [LogicalOperatiors](https://github.com/KiLJ4EdeN/Cpp_Tutorial/blob/main/Cpp_Tutorial/BasicConcepts/user_input.cpp)
+    * [if](https://github.com/KiLJ4EdeN/Cpp_Tutorial/blob/main/Cpp_Tutorial/ConditionalsAndLoops/if_statement.cpp)
+    * [else](https://github.com/KiLJ4EdeN/Cpp_Tutorial/blob/main/Cpp_Tutorial/ConditionalsAndLoops/else_statement.cpp)
+    * [switch](https://github.com/KiLJ4EdeN/Cpp_Tutorial/blob/main/Cpp_Tutorial/ConditionalsAndLoops/switch_statement.cpp)
+    * [while](https://github.com/KiLJ4EdeN/Cpp_Tutorial/blob/main/Cpp_Tutorial/ConditionalsAndLoops/while_statement.cpp)
+    * [dowhile](https://github.com/KiLJ4EdeN/Cpp_Tutorial/blob/main/Cpp_Tutorial/ConditionalsAndLoops/dowhile_statement.cpp)
+    * [LinearRegression](https://github.com/KiLJ4EdeN/Cpp_Tutorial/blob/main/Cpp_Tutorial/ConditionalsAndLoops/linear_regression.cpp)
