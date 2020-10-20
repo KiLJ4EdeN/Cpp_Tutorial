@@ -1,4 +1,4 @@
-# Cpp_Tutorial <img src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" alt="C++ Logo" width="10%" height="10%" />
+# Cpp_Tutorial <img src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" alt="C++ Logo" width="10%" height="10%" align="center" />
 
 
 Simple guide for cpp using the sololearn course.
