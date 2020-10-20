@@ -39,6 +39,7 @@ g++ filename.cpp -o filename.o
 * **Chapter 1:**  
 
 * [BasicConcepts](https://github.com/KiLJ4EdeN/Cpp_Tutorial/tree/main/src/BasicConcepts)
+    * [Main](https://github.com/KiLJ4EdeN/Cpp_Tutorial/blob/main/src/BasicConcepts/main.cpp)
     * [HelloWorld](https://github.com/KiLJ4EdeN/Cpp_Tutorial/blob/main/src/BasicConcepts/helloworld.cpp)
     * [Variables](https://github.com/KiLJ4EdeN/Cpp_Tutorial/blob/main/src/BasicConcepts/vars.cpp)
     * [UserInput](https://github.com/KiLJ4EdeN/Cpp_Tutorial/blob/main/src/BasicConcepts/user_input.cpp)
@@ -65,12 +66,19 @@ g++ filename.cpp -o filename.o
     * [LinearRegression](https://github.com/KiLJ4EdeN/Cpp_Tutorial/blob/main/src/DatatypesAndPointers/LinearRegression.cpp)
     * [MultiDimenstionalArrays](https://github.com/KiLJ4EdeN/Cpp_Tutorial/blob/main/src/DatatypesAndPointers/MultiDimensionalArrays.cpp)
     * [Pointers](https://github.com/KiLJ4EdeN/Cpp_Tutorial/blob/main/src/DatatypesAndPointers/Pointers.cpp)
+    * [ReusingPointers](https://github.com/KiLJ4EdeN/Cpp_Tutorial/blob/main/src/DatatypesAndPointers/ReusingPointer.cpp)
     * [DynamicMemory](https://github.com/KiLJ4EdeN/Cpp_Tutorial/blob/main/src/DatatypesAndPointers/DynamicMemory.cpp)
+    * [SizeOf](https://github.com/KiLJ4EdeN/Cpp_Tutorial/blob/main/src/DatatypesAndPointers/SizeOf.cpp)
     
     
 * **Chapter 3:** 
 
 * [Functions](https://github.com/KiLJ4EdeN/Cpp_Tutorial/tree/main/src/Functions)
     * [Decarlation](https://github.com/KiLJ4EdeN/Cpp_Tutorial/blob/main/src/Functions/Decarlation.cpp)
+    * [Parameters](https://github.com/KiLJ4EdeN/Cpp_Tutorial/blob/main/src/Functions/Parameters.cpp)
     * [Vectors](https://github.com/KiLJ4EdeN/Cpp_Tutorial/blob/main/src/Functions/Vectors.cpp)
+    * [random](https://github.com/KiLJ4EdeN/Cpp_Tutorial/blob/main/src/Functions/random.cpp)
+    * [Application](https://github.com/KiLJ4EdeN/Cpp_Tutorial/blob/main/src/Functions/FunctionAppExample.cpp)
+    * [OneLayerPerceptron](https://github.com/KiLJ4EdeN/Cpp_Tutorial/blob/main/src/Functions/OneLayerPerceptron.cpp)
+    
 
