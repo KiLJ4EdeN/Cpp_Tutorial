@@ -50,7 +50,7 @@ g++ filename.cpp -o filename.o
 * **Chapter 2:** 
 
 * [ConditionalsAndLoops](https://github.com/KiLJ4EdeN/Cpp_Tutorial/tree/main/src/ConditionalsAndLoops)
-    * [LogicalOperatiors](https://github.com/KiLJ4EdeN/Cpp_Tutorial/blob/main/src/BasicConcepts/user_input.cpp)
+    * [LogicalOperatiors](https://github.com/KiLJ4EdeN/Cpp_Tutorial/blob/main/src/ConditionalsAndLoops/logical_operators.cpp)
     * [if](https://github.com/KiLJ4EdeN/Cpp_Tutorial/blob/main/src/ConditionalsAndLoops/if_statement.cpp)
     * [else](https://github.com/KiLJ4EdeN/Cpp_Tutorial/blob/main/src/ConditionalsAndLoops/else_statement.cpp)
     * [switch](https://github.com/KiLJ4EdeN/Cpp_Tutorial/blob/main/src/ConditionalsAndLoops/switch_statement.cpp)
