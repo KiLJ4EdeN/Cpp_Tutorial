@@ -77,7 +77,9 @@ g++ filename.cpp -o filename.o
     * [Decarlation](https://github.com/KiLJ4EdeN/Cpp_Tutorial/blob/main/src/Functions/Decarlation.cpp)
     * [Parameters](https://github.com/KiLJ4EdeN/Cpp_Tutorial/blob/main/src/Functions/Parameters.cpp)
     * [Vectors](https://github.com/KiLJ4EdeN/Cpp_Tutorial/blob/main/src/Functions/Vectors.cpp)
-    * [random](https://github.com/KiLJ4EdeN/Cpp_Tutorial/blob/main/src/Functions/random.cpp)
+    * [Random](https://github.com/KiLJ4EdeN/Cpp_Tutorial/blob/main/src/Functions/Random.cpp)
+    * [RandomInt](https://github.com/KiLJ4EdeN/Cpp_Tutorial/blob/main/src/Functions/RandomInt.cpp)
+    * [Time](https://github.com/KiLJ4EdeN/Cpp_Tutorial/blob/main/src/Functions/Time.cpp)
     * [Application](https://github.com/KiLJ4EdeN/Cpp_Tutorial/blob/main/src/Functions/FunctionAppExample.cpp)
     * [OneLayerPerceptron](https://github.com/KiLJ4EdeN/Cpp_Tutorial/blob/main/src/Functions/OneLayerPerceptron.cpp)
     
