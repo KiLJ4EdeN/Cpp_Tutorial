@@ -3,7 +3,7 @@ using namespace std;
 
 int main() 
 {
-  // Assignment Ops:
+  // Assignment Operations:
   x += 3; // equivalent to x = x + 3
   x *= 3; // equivalent to x = x * 3
   x /= 2; // equivalent to x = x / 2

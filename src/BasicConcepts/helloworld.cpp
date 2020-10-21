@@ -10,6 +10,7 @@
 int main()
 {
    int myVariable = 10;
+   // Note that by using "using namespace std;" we could have used cout directly
    std::cout << myVariable;
    return 0;
 }
