@@ -76,6 +76,12 @@ g++ filename.cpp -o filename.o
 * [Functions](https://github.com/KiLJ4EdeN/Cpp_Tutorial/tree/main/src/Functions)
     * [Decarlation](https://github.com/KiLJ4EdeN/Cpp_Tutorial/blob/main/src/Functions/Decarlation.cpp)
     * [Parameters](https://github.com/KiLJ4EdeN/Cpp_Tutorial/blob/main/src/Functions/Parameters.cpp)
+    * [DefaultArguments](https://github.com/KiLJ4EdeN/Cpp_Tutorial/blob/main/src/Functions/DefaultArgs.cpp)
+    * [OverLoading](https://github.com/KiLJ4EdeN/Cpp_Tutorial/blob/main/src/Functions/OverLoading.cpp)
+    * [PassByValue](https://github.com/KiLJ4EdeN/Cpp_Tutorial/blob/main/src/Functions/PassValue.cpp)
+    * [PassByReference](https://github.com/KiLJ4EdeN/Cpp_Tutorial/blob/main/src/Functions/PassReference.cpp)
+    * [Recursion](https://github.com/KiLJ4EdeN/Cpp_Tutorial/blob/main/src/Functions/Recursion.cpp)
+    * [Arrays](https://github.com/KiLJ4EdeN/Cpp_Tutorial/blob/main/src/Functions/Arrays.cpp)
     * [Vectors](https://github.com/KiLJ4EdeN/Cpp_Tutorial/blob/main/src/Functions/Vectors.cpp)
     * [Random](https://github.com/KiLJ4EdeN/Cpp_Tutorial/blob/main/src/Functions/Random.cpp)
     * [RandomInt](https://github.com/KiLJ4EdeN/Cpp_Tutorial/blob/main/src/Functions/RandomInt.cpp)
@@ -84,3 +90,43 @@ g++ filename.cpp -o filename.o
     * [OneLayerPerceptron](https://github.com/KiLJ4EdeN/Cpp_Tutorial/blob/main/src/Functions/OneLayerPerceptron.cpp)
     
 
+* **Chapter 5:** 
+
+* [Objects](https://github.com/KiLJ4EdeN/Cpp_Tutorial/tree/main/src/Objects)
+    * [Attributes](https://github.com/KiLJ4EdeN/Cpp_Tutorial/blob/main/src/Objects/Attributes.cpp)
+    * [Abstraction](https://github.com/KiLJ4EdeN/Cpp_Tutorial/blob/main/src/Objects/Abstraction.cpp)
+    * [Constructors](https://github.com/KiLJ4EdeN/Cpp_Tutorial/blob/main/src/Objects/Constructors.cpp)
+    * [ClassMethods](https://github.com/KiLJ4EdeN/Cpp_Tutorial/blob/main/src/Objects/ClassMethods.cpp)
+    * [ClassPointers](https://github.com/KiLJ4EdeN/Cpp_Tutorial/blob/main/src/Objects/ClassPointers.cpp)
+    * [Constants](https://github.com/KiLJ4EdeN/Cpp_Tutorial/blob/main/src/Objects/Constants.cpp)
+    * [MemberInitializers](https://github.com/KiLJ4EdeN/Cpp_Tutorial/blob/main/src/Objects/MemberInitializers.cpp)
+    * [SeperateFiles](https://github.com/KiLJ4EdeN/Cpp_Tutorial/blob/main/src/Objects/Mage.cpp)
+    * [Friend](https://github.com/KiLJ4EdeN/Cpp_Tutorial/blob/main/src/Objects/Friend.cpp)
+    * [Inheritance](https://github.com/KiLJ4EdeN/Cpp_Tutorial/blob/main/src/Objects/Inheritance.cpp)
+    * [InheritanceInitializers](https://github.com/KiLJ4EdeN/Cpp_Tutorial/blob/main/src/Objects/InheritanceInitializers.cpp)
+    * [ThisKeyword](https://github.com/KiLJ4EdeN/Cpp_Tutorial/blob/main/src/Objects/ThisKeyword.cpp)
+    * [OperatorOverloading](https://github.com/KiLJ4EdeN/Cpp_Tutorial/blob/main/src/Objects/OperatorOverloading.cpp)
+    * [Polymorphism](https://github.com/KiLJ4EdeN/Cpp_Tutorial/blob/main/src/Objects/Polymorphism.cpp)
+    * [VirtualFunctions](https://github.com/KiLJ4EdeN/Cpp_Tutorial/blob/main/src/Objects/VirtualFunctions.cpp)
+    * [PureVirtualFunctions](https://github.com/KiLJ4EdeN/Cpp_Tutorial/blob/main/src/Objects/PureVirtualFunctions.cpp)
+   
+   
+* **Chapter 6:** 
+
+* [Templates](https://github.com/KiLJ4EdeN/Cpp_Tutorial/tree/main/src/Templates)
+    * [FunctionTemplates](https://github.com/KiLJ4EdeN/Cpp_Tutorial/blob/main/src/Templates/FunctionTemplates.cpp)
+    * [ClassTemplates](https://github.com/KiLJ4EdeN/Cpp_Tutorial/blob/main/src/Templates/ClassTemplates.cpp)
+    * [TemplateSpecialization](https://github.com/KiLJ4EdeN/Cpp_Tutorial/blob/main/src/Templates/TemplateSpecialization.cpp)
+
+
+* **Chapter 7:** 
+
+* [Exceptions](https://github.com/KiLJ4EdeN/Cpp_Tutorial/tree/main/src/Exceptions)
+    * [ThrowingErrors](https://github.com/KiLJ4EdeN/Cpp_Tutorial/blob/main/src/Exceptions/ThrowingErrors.cpp)
+    * [TryCatchBlock](https://github.com/KiLJ4EdeN/Cpp_Tutorial/blob/main/src/Exceptions/TryCatchBlock.cpp)
+
+
+* **Chapter 8:** 
+
+* [FileIO](https://github.com/KiLJ4EdeN/Cpp_Tutorial/tree/main/src/Files)
+    * [ReadWrite](https://github.com/KiLJ4EdeN/Cpp_Tutorial/blob/main/src/Files/ReadWrite.cpp)
