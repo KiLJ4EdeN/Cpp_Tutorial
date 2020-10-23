@@ -63,7 +63,6 @@ g++ filename.cpp -o filename.o
 
 * [DataTypesAndPointers](https://github.com/KiLJ4EdeN/Cpp_Tutorial/tree/main/src/DatatypesAndPointers)
     * [Dtypes](https://github.com/KiLJ4EdeN/Cpp_Tutorial/blob/main/src/DatatypesAndPointers/Dtypes.cpp)
-    * [LinearRegression](https://github.com/KiLJ4EdeN/Cpp_Tutorial/blob/main/src/DatatypesAndPointers/LinearRegression.cpp)
     * [MultiDimenstionalArrays](https://github.com/KiLJ4EdeN/Cpp_Tutorial/blob/main/src/DatatypesAndPointers/MultiDimensionalArrays.cpp)
     * [Pointers](https://github.com/KiLJ4EdeN/Cpp_Tutorial/blob/main/src/DatatypesAndPointers/Pointers.cpp)
     * [ReusingPointers](https://github.com/KiLJ4EdeN/Cpp_Tutorial/blob/main/src/DatatypesAndPointers/ReusingPointer.cpp)
@@ -87,7 +86,6 @@ g++ filename.cpp -o filename.o
     * [RandomInt](https://github.com/KiLJ4EdeN/Cpp_Tutorial/blob/main/src/Functions/RandomInt.cpp)
     * [Time](https://github.com/KiLJ4EdeN/Cpp_Tutorial/blob/main/src/Functions/Time.cpp)
     * [Application](https://github.com/KiLJ4EdeN/Cpp_Tutorial/blob/main/src/Functions/FunctionAppExample.cpp)
-    * [OneLayerPerceptron](https://github.com/KiLJ4EdeN/Cpp_Tutorial/blob/main/src/Functions/OneLayerPerceptron.cpp)
     
 
 * **Chapter 5:** 
@@ -130,3 +128,10 @@ g++ filename.cpp -o filename.o
 
 * [FileIO](https://github.com/KiLJ4EdeN/Cpp_Tutorial/tree/main/src/Files)
     * [ReadWrite](https://github.com/KiLJ4EdeN/Cpp_Tutorial/blob/main/src/Files/ReadWrite.cpp)
+    
+ 
+* **Chapter 9:**
+* [MachineLearning](https://github.com/KiLJ4EdeN/Cpp_Tutorial/tree/main/src/MachineLearning)
+    * [SimpleLinearRegression](https://github.com/KiLJ4EdeN/Cpp_Tutorial/blob/main/src/MachineLearning/SimpleRegression.cpp)
+    * [LinearRegression](https://github.com/KiLJ4EdeN/Cpp_Tutorial/blob/main/src/MachineLearning/LinearRegression.cpp)
+    * [OneLayerPerceptron](https://github.com/KiLJ4EdeN/Cpp_Tutorial/blob/main/src/MachineLearning/OneLayerPerceptron.cpp)
