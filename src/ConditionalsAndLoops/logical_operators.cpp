@@ -1,6 +1,10 @@
 #include <iostream>
 using namespace std;
 
+// logical operators
+// a simple usage would be reversing if loop conditions with "not",
+// or chaining a list of conditions using "or", "and".
+
 int main()
 {
 	// && (and)
