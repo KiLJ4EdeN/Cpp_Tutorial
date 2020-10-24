@@ -1,5 +1,7 @@
 #include <iostream>
 
+// we are going to create a simple calculator applicaiton.
+// which takes two inputs from the user and an operation, capable of doing summation, multiplication, division and subtraction.
 using namespace std;
 
 int main(){
