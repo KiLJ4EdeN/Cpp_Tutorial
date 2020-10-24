@@ -1,6 +1,7 @@
 #include <iostream>
 using namespace std;
 
+// assignments and increments are efficient ways of manipulating variables in c++.
 int main() 
 {
   // Assignment Operations:
