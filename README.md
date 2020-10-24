@@ -13,7 +13,7 @@ Simple tutorial for c++ utilizing the SoloLearn course and  linear-cpp while add
 
 [SoloLearn](https://www.sololearn.com/Course/CPlusPlus/)
 
-[linear-cpp](https://github.com/jesyspa/linear-cpp)
+[LinearCPP](https://github.com/jesyspa/linear-cpp)
 
 
 ## Preliminaries
@@ -39,23 +39,23 @@ g++ filename.cpp -o filename.o
 * **Chapter 1:**  
 
 * [BasicConcepts](https://github.com/KiLJ4EdeN/Cpp_Tutorial/tree/main/src/BasicConcepts)
-    * [Main](https://github.com/KiLJ4EdeN/Cpp_Tutorial/blob/main/src/BasicConcepts/main.cpp)
-    * [HelloWorld](https://github.com/KiLJ4EdeN/Cpp_Tutorial/blob/main/src/BasicConcepts/helloworld.cpp)
-    * [Variables](https://github.com/KiLJ4EdeN/Cpp_Tutorial/blob/main/src/BasicConcepts/vars.cpp)
-    * [UserInput](https://github.com/KiLJ4EdeN/Cpp_Tutorial/blob/main/src/BasicConcepts/user_input.cpp)
-    * [AassignmentAndInrementing](https://github.com/KiLJ4EdeN/Cpp_Tutorial/blob/main/src/BasicConcepts/assignment_and_increment.cpp)
-    * [Arithmetics](https://github.com/KiLJ4EdeN/Cpp_Tutorial/blob/main/src/BasicConcepts/arithmetic.cpp)
+    * [Main](https://github.com/KiLJ4EdeN/Cpp_Tutorial/blob/main/src/BasicConcepts/Main.cpp)
+    * [HelloWorld](https://github.com/KiLJ4EdeN/Cpp_Tutorial/blob/main/src/BasicConcepts/HelloWorld.cpp)
+    * [Variables](https://github.com/KiLJ4EdeN/Cpp_Tutorial/blob/main/src/BasicConcepts/Variables.cpp)
+    * [UserInput](https://github.com/KiLJ4EdeN/Cpp_Tutorial/blob/main/src/BasicConcepts/UserInput.cpp)
+    * [AassignmentAndInrementing](https://github.com/KiLJ4EdeN/Cpp_Tutorial/blob/main/src/BasicConcepts/AssignmentAndIncrement.cpp)
+    * [Arithmetics](https://github.com/KiLJ4EdeN/Cpp_Tutorial/blob/main/src/BasicConcepts/AssignmentAndIncrement.cpp)
     
 
 * **Chapter 2:** 
 
 * [ConditionalsAndLoops](https://github.com/KiLJ4EdeN/Cpp_Tutorial/tree/main/src/ConditionalsAndLoops)
-    * [LogicalOperatiors](https://github.com/KiLJ4EdeN/Cpp_Tutorial/blob/main/src/ConditionalsAndLoops/logical_operators.cpp)
-    * [if](https://github.com/KiLJ4EdeN/Cpp_Tutorial/blob/main/src/ConditionalsAndLoops/if_statement.cpp)
-    * [else](https://github.com/KiLJ4EdeN/Cpp_Tutorial/blob/main/src/ConditionalsAndLoops/else_statement.cpp)
-    * [switch](https://github.com/KiLJ4EdeN/Cpp_Tutorial/blob/main/src/ConditionalsAndLoops/switch_statement.cpp)
-    * [while](https://github.com/KiLJ4EdeN/Cpp_Tutorial/blob/main/src/ConditionalsAndLoops/while_statement.cpp)
-    * [dowhile](https://github.com/KiLJ4EdeN/Cpp_Tutorial/blob/main/src/ConditionalsAndLoops/dowhile_statement.cpp)
+    * [LogicalOperators](https://github.com/KiLJ4EdeN/Cpp_Tutorial/blob/main/src/ConditionalsAndLoops/LogicalOperators.cpp)
+    * [IfStatement](https://github.com/KiLJ4EdeN/Cpp_Tutorial/blob/main/src/ConditionalsAndLoops/IfStatement.cpp)
+    * [ElseStatement](https://github.com/KiLJ4EdeN/Cpp_Tutorial/blob/main/src/ConditionalsAndLoops/ElseStatement.cpp)
+    * [Switch](https://github.com/KiLJ4EdeN/Cpp_Tutorial/blob/main/src/ConditionalsAndLoops/Switch.cpp)
+    * [WhileStatement](https://github.com/KiLJ4EdeN/Cpp_Tutorial/blob/main/src/ConditionalsAndLoops/WhileStatement.cpp)
+    * [DoWhile](https://github.com/KiLJ4EdeN/Cpp_Tutorial/blob/main/src/ConditionalsAndLoops/DoWhile.cpp)
 
 
 
