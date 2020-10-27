@@ -135,3 +135,9 @@ g++ filename.cpp -o filename.o
     * [Simple LinearRegression](https://github.com/KiLJ4EdeN/Cpp_Tutorial/blob/main/src/MachineLearning/SimpleRegression.cpp)
     * [Linear Regression](https://github.com/KiLJ4EdeN/Cpp_Tutorial/blob/main/src/MachineLearning/LinearRegression.cpp)
     * [One Layer Perceptron](https://github.com/KiLJ4EdeN/Cpp_Tutorial/blob/main/src/MachineLearning/OneLayerPerceptron.cpp)
+    
+    
+* **Chapter 10:**
+* [Computer Vision](https://github.com/KiLJ4EdeN/Cpp_Tutorial/tree/main/src/ComputerVision)
+    * [Install OpenCV](https://github.com/KiLJ4EdeN/Cpp_Tutorial/blob/main/src/ComputerVision/install_opencv.sh)
+    * [Camera](https://github.com/KiLJ4EdeN/Cpp_Tutorial/blob/main/src/ComputerVision/live_camera.cpp)
