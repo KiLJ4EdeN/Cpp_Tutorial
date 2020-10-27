@@ -7,6 +7,13 @@
 #include <algorithm>    	// includes max()
 
 
+// Define the filter kernel height and width.
+int height = 3;
+int width = 3;
+// How Many times to apply the filter.
+int num_blurrs = 15;
+
+
 int main()
 {
 	cv::Mat img;  // image object
@@ -26,6 +33,11 @@ int main()
 
   	while ( true ){
   		cap >> img; // retrieve the captured frame as an image
+		
+		// blur the image multiple times.
+		for (int i = 0; i <= num_blurrs; i++){
+			blur(img, img, cv::Size(width,height), cv::Point(-1,-1), cv::BORDER_DEFAULT );
+		}
 
   		// display image in window
   		cv::imshow(windowName, img);
