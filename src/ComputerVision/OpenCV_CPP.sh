@@ -1,3 +1,11 @@
+# install dependencies first
+sudo dnf install epel-release git gcc gcc-c++ cmake3 qt5-qtbase-devel \
+    python3 python3-devel python3-pip cmake python3-devel python3-numpy \
+    gtk2-devel libpng-devel jasper-devel openexr-devel libwebp-devel \
+    libjpeg-turbo-devel libtiff-devel tbb-devel libv4l-devel \
+    eigen3-devel freeglut-devel mesa-libGL mesa-libGL-devel \
+    boost boost-thread boost-devel gstreamer1-plugins-base
+
 # create a temp dir
 mkdir -p ~/opencv_build && cd ~/opencv_build
 
@@ -8,8 +16,14 @@ git clone https://github.com/opencv/opencv_contrib.git
 # build the library
 cd ~/opencv_build/opencv && mkdir build && cd build
 
-cmake3 -D CMAKE_BUILD_TYPE=RELEASE     -D CMAKE_INSTALL_PREFIX=/usr/local     -D INSTALL_C_EXAMPLES=ON     -D INSTALL_PYTHON_EXAMPLES=ON     -D OPENCV_GENERATE_PKGCONFIG=ON     -D OPENCV_EXTRA_MODULES_PATH=~/opencv_build/opencv_contrib/modules     -D BUILD_EXAMPLES=ON ..
-
+cmake3 -D CMAKE_BUILD_TYPE=RELEASE \
+    -D CMAKE_INSTALL_PREFIX=/usr/local \
+    -D INSTALL_C_EXAMPLES=ON \
+    -D INSTALL_PYTHON_EXAMPLES=ON \
+    -D OPENCV_GENERATE_PKGCONFIG=ON \
+    -D OPENCV_EXTRA_MODULES_PATH=~/opencv_build/opencv_contrib/modules \
+    -D BUILD_EXAMPLES=ON ..
+    
 # use cores based on the "nproc" command.
 make -j8
 sudo make install
