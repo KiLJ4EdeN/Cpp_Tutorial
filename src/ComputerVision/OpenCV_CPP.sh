@@ -20,8 +20,8 @@ sudo ln -s /usr/local/{lib_dir}/pkgconfig/opencv4.pc /usr/share/pkgconfig/
 
 # find where the file is if faced an error.
 # whereis pkgconfig
-sudo ln -s /usr/local/lib/pkgconfig/opencv4.pc /usr/share/pkgconfig/
-sudo ldconfig
+# sudo ln -s /usr/local/lib/pkgconfig/opencv4.pc /usr/share/pkgconfig/
+# sudo ldconfig
 
 # add shared libraries
 export LD_LIBRARY_PATH=~/opencv_build/opencv/build/lib/:$LD_LIBRARY_PATH
