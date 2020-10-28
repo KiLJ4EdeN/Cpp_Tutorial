@@ -4,7 +4,7 @@ sudo dnf install epel-release git gcc gcc-c++ cmake3 qt5-qtbase-devel \
     gtk2-devel libpng-devel jasper-devel openexr-devel libwebp-devel \
     libjpeg-turbo-devel libtiff-devel tbb-devel libv4l-devel \
     eigen3-devel freeglut-devel mesa-libGL mesa-libGL-devel \
-    boost boost-thread boost-devel gstreamer1-plugins-base
+    boost boost-thread boost-devel gstreamer1-plugins-base libcanberra-gtk2
 
 # create a temp dir
 mkdir -p ~/opencv_build && cd ~/opencv_build
