@@ -18,13 +18,19 @@ int main(){
 	cv::Mat image;
 
 	// Load the image in color mode.
-	image = cv::imread(image_path, cv::IMREAD_COLOR);
+	image = cv::imread( image_path, cv::IMREAD_COLOR );
 	
+	// If the image is not properly loaded stop.
+	if ( image.empty() ) {
+		std::cout << "Image Was Not Loaded..." << std::endl;
+		return 0;
+	}
+
 	// Resize The image if needed.
-	cv::resize(image, image, cv::Size(t, t), fx=fx, fy=fy);
+	cv::resize( image, image, cv::Size(t, t), fx=fx, fy=fy );
 
 	// Show the image and wait for a key to be pressed.
-	cv::imshow(window_name, image);
+	cv::imshow( window_name, image );
 	cv::waitKey(0);
 
 	// Destroy the active window afterwards.
