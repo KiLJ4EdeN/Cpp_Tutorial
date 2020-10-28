@@ -140,5 +140,11 @@ g++ filename.cpp -o filename.o
     
 * **Chapter 10:**
 * [Computer Vision](https://github.com/KiLJ4EdeN/Cpp_Tutorial/tree/main/src/ComputerVision)
-    * [Install OpenCV](https://github.com/KiLJ4EdeN/Cpp_Tutorial/blob/main/src/ComputerVision/install_opencv.sh)
-    * [Camera](https://github.com/KiLJ4EdeN/Cpp_Tutorial/blob/main/src/ComputerVision/live_camera.cpp)
+    * [OpenCV](https://github.com/KiLJ4EdeN/Cpp_Tutorial/tree/main/src/ComputerVision/OpenCV)
+    * [Install OpenCV](https://github.com/KiLJ4EdeN/Cpp_Tutorial/blob/main/src/ComputerVision/OpenCV/install_opencv.sh)
+     * [Image Processing](https://github.com/KiLJ4EdeN/Cpp_Tutorial/tree/main/src/ComputerVision/OpenCV/ImageProcessing)
+      * [Display Image](https://github.com/KiLJ4EdeN/Cpp_Tutorial/blob/main/src/ComputerVision/OpenCV/ImageProcessing/DisplayImage.cpp)
+      * [Live Camera](https://github.com/KiLJ4EdeN/Cpp_Tutorial/blob/main/src/ComputerVision/OpenCV/ImageProcessing/LiveCamera.cpp)
+      * [Gray Camera](https://github.com/KiLJ4EdeN/Cpp_Tutorial/blob/main/src/ComputerVision/OpenCV/ImageProcessing/GrayCamera.cpp)
+      * [Blur](https://github.com/KiLJ4EdeN/Cpp_Tutorial/blob/main/src/ComputerVision/OpenCV/ImageProcessing/Blur.cpp)
+      * [Gaussian Blur](https://github.com/KiLJ4EdeN/Cpp_Tutorial/blob/main/src/ComputerVision/OpenCV/ImageProcessing/GaussianBlur.cpp)
