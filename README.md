@@ -16,7 +16,7 @@ Tutorial for cpp utilizing the SoloLearn course and linearcpp while adding Machi
 
 [Linear C++](https://github.com/jesyspa/linear-cpp)
 
-
+ 
 ## Preliminaries
 Install g++, Depending on your Linux Distribution.
 ```bash
